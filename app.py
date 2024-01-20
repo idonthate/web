@@ -10,4 +10,4 @@ st.write("i like cuuum")
 st.write("[learnsdasdasore]")
 
 import streamlit as st
-st.image('112f7c9bc0848cb70bef1e2e4cc2b484.png')
+st.image('sunrise.jpg', caption='Sunrise by the mountains')
